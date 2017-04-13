@@ -40,6 +40,16 @@ a {
   text-decoration: none;
 }
 
+blockquote {
+    font-family: 'raleway', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote {
+    padding: 5em 0 0;
+}
+
 @media screen and (max-width: 800px) {
   .info-font, .info-font {
     font-size: 9vw;
